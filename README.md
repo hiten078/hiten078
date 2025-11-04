@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hiten Barthwal</h1>
-<h2 align="center">A passionate Data Analyst from India</h2>
+<h2 align="center">A passionate Software Engineer from India</h2>
 
 
 
@@ -7,9 +7,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhiraj1342&label=Profile%20views&color=0e75b6&style=flat" alt="abhiraj1342" /> </p>
 <img align="right" alt="coding on" width="500px" height="400" src="https://25.media.tumblr.com/72d5855e55a1971645b927c14debc7ce/tumblr_mtjget4P4m1ru39xmo1_500.gif">
 
-•⁠  ⁠Data Analyst
-•⁠  ⁠Enthusiastic and highly motivated Data Analyst <br>with a solid understanding of modern AI tools and technologies.
-•⁠  ⁠B.Tech from Electrical and Electronics Engineering
+•⁠  ⁠Software Engineer
+•⁠  ⁠Enthusiastic and highly motivated Tech enthusiast <br>with a solid understanding of modern AI tools and technologies.
+•⁠  ⁠B.Tech from Electrical and Electronics Engineering (AIML)
 •⁠  ⁠Quick learner with a strong problem-solving mindset
 •⁠  ⁠Data Structures and Algorithms (DSA)
 •⁠  ⁠Python || Python FastAPI|| Restful API
